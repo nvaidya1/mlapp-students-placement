@@ -1,0 +1,101 @@
+Student Name,Course Name,Education (years),Duration of Learning (months),Duration of Internship (months),Job Search (months),Job Salary (k),Job Retention (months)
+Student1,GIS,16,9,11,8,91,19
+Student2,Data Viz,11,3,0,8,98,25
+Student3,Python,11,6,1,2,105,24
+Student4,GIS,13,6,0,6,45,31
+Student5,GIS,11,7,11,7,119,20
+Student6,Data Viz,11,9,4,2,119,21
+Student7,Python,15,9,4,11,77,26
+Student8,Python,13,6,10,10,114,10
+Student9,GIS,15,9,6,2,68,8
+Student10,Web Dev,16,5,8,10,62,17
+Student11,GIS,17,8,8,1,52,30
+Student12,GIS,16,4,2,8,39,25
+Student13,GIS,17,11,2,1,98,32
+Student14,GIS,15,7,2,9,63,26
+Student15,Data Viz,16,8,3,11,81,9
+Student16,Python,13,6,7,6,39,26
+Student17,Data Viz,10,9,5,7,48,28
+Student18,Data Viz,15,11,7,10,87,21
+Student19,Data Viz,17,9,0,7,30,30
+Student20,GIS,14,3,7,10,98,12
+Student21,Web Dev,17,3,3,3,33,18
+Student22,Python,14,11,10,2,45,26
+Student23,Web Dev,11,11,0,9,53,15
+Student24,Data Viz,16,6,7,8,109,31
+Student25,Data Viz,14,11,3,10,31,12
+Student26,Web Dev,17,5,5,7,61,19
+Student27,Web Dev,11,9,7,9,113,31
+Student28,Web Dev,10,8,3,4,53,10
+Student29,Data Viz,13,10,2,4,41,8
+Student30,Data Viz,13,11,8,1,79,28
+Student31,Python,13,7,2,8,64,34
+Student32,Python,14,3,8,3,62,16
+Student33,Data Viz,10,5,1,7,62,16
+Student34,Web Dev,14,10,1,2,90,23
+Student35,Web Dev,16,8,1,2,80,20
+Student36,Python,14,10,5,7,72,17
+Student37,Data Viz,10,11,2,6,41,14
+Student38,Python,10,6,8,3,96,15
+Student39,Python,16,3,3,9,94,31
+Student40,GIS,10,3,0,10,62,17
+Student41,GIS,17,6,3,6,69,22
+Student42,GIS,10,9,0,10,103,34
+Student43,Web Dev,13,4,4,10,72,11
+Student44,Data Viz,17,5,3,6,73,12
+Student45,Data Viz,17,3,7,1,58,19
+Student46,Data Viz,16,7,7,4,42,18
+Student47,Data Viz,12,3,6,10,41,13
+Student48,GIS,12,10,2,6,75,15
+Student49,Web Dev,10,3,0,6,31,14
+Student50,Web Dev,17,3,0,11,64,23
+Student51,GIS,12,4,11,5,116,32
+Student52,Web Dev,12,4,10,1,110,31
+Student53,GIS,10,8,2,8,119,7
+Student54,Data Viz,12,9,5,5,37,10
+Student55,GIS,14,7,6,5,55,34
+Student56,Data Viz,11,3,5,7,103,10
+Student57,Data Viz,16,3,5,4,119,11
+Student58,Python,11,5,5,6,63,24
+Student59,GIS,10,4,2,4,36,13
+Student60,Python,13,7,5,3,97,21
+Student61,GIS,16,8,7,7,87,18
+Student62,GIS,10,9,10,8,104,6
+Student63,Python,17,6,10,4,58,27
+Student64,Python,13,9,1,2,65,25
+Student65,GIS,11,10,4,10,118,22
+Student66,Web Dev,10,3,0,3,50,12
+Student67,Data Viz,17,8,11,1,65,30
+Student68,Python,16,10,0,8,39,18
+Student69,Data Viz,16,7,4,3,102,9
+Student70,Web Dev,15,6,11,10,53,9
+Student71,Web Dev,17,4,2,7,93,11
+Student72,Web Dev,14,8,3,10,78,33
+Student73,Python,12,8,2,5,65,24
+Student74,Web Dev,13,3,0,10,111,34
+Student75,Python,17,11,0,5,53,17
+Student76,Web Dev,15,8,11,7,52,27
+Student77,Data Viz,12,5,11,9,91,12
+Student78,Data Viz,12,6,4,5,66,32
+Student79,GIS,10,6,5,1,41,15
+Student80,Data Viz,12,5,2,10,84,31
+Student81,GIS,14,5,11,10,42,24
+Student82,Data Viz,16,5,8,1,52,12
+Student83,Python,15,6,4,2,118,35
+Student84,Data Viz,12,9,7,6,59,8
+Student85,GIS,10,6,0,9,46,18
+Student86,GIS,14,11,4,8,91,18
+Student87,Web Dev,11,3,2,5,113,23
+Student88,Python,16,10,11,1,118,33
+Student89,Data Viz,16,9,0,7,115,35
+Student90,Web Dev,15,4,3,5,42,31
+Student91,Data Viz,16,10,4,6,88,25
+Student92,Data Viz,12,3,6,7,48,33
+Student93,Web Dev,10,11,0,3,78,13
+Student94,Web Dev,16,11,2,10,41,34
+Student95,Web Dev,16,4,1,3,90,14
+Student96,Web Dev,11,9,8,5,48,12
+Student97,Web Dev,11,5,9,6,105,6
+Student98,Data Viz,13,9,5,9,38,8
+Student99,Web Dev,14,11,9,5,100,18
+Student100,Python,12,6,2,1,57,33
